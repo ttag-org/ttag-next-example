@@ -1,0 +1,32 @@
+msgid ""
+msgstr ""
+"Content-Type: text/plain; charset=utf-8\n"
+"Plural-Forms: nplurals=2; plural=(n!=1);\n"
+
+#: src/pages/index.tsx:5
+msgid "Home page"
+msgstr ""
+
+#: src/pages/about_us/index.tsx:4
+msgid "About as"
+msgstr "Про нас"
+
+#: src/components/LangPicker/LangPicker.tsx:26
+msgid "english"
+msgstr "англійська"
+
+#: src/components/LangPicker/LangPicker.tsx:27
+msgid "ukrainian"
+msgstr "українська"
+
+#: src/components/Header/Header.tsx:23
+msgid "Main"
+msgstr "Головна"
+
+#: src/components/Header/Header.tsx:26
+msgid "About us"
+msgstr "Про нас"
+
+#: src/pages/index.tsx:7
+msgid "It is a test text"
+msgstr ""
